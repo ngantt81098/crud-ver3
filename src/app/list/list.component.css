@@ -1,0 +1,28 @@
+table {
+    margin-top: 20px;
+    margin-left: 16px;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    text-align: center;
+    background-color: #f1f1f1;
+}
+
+.autoResizeImage {
+    max-width: 12%;
+    height: auto;
+    width: auto;
+}
+
+p {
+    margin-left: 16px;
+}
